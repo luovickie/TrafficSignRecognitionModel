@@ -1,1 +1,1 @@
-# FloraAndFaunaLocationPrediction
+# ArtStyleRecognitionModel
