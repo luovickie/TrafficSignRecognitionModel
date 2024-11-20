@@ -1,3 +1,4 @@
+
 import random
 import tensorflow as tf
 from datasets import load_dataset
@@ -7,7 +8,7 @@ def dataset_to_tfdata(dataset, train_split=0.8):
     # Shuffle the dataset manually before processing
     random.shuffle(dataset)
     
-    # Split into train and test data sets
+    # Split into train and test datasets
     train_size = int(len(dataset) * train_split)
     train_dataset = dataset[:train_size]
     test_dataset = dataset[train_size:]
