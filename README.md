@@ -1,1 +1,1 @@
-# ArtStyleRecognitionModel
+# TrafficSignRecognitionModel
