@@ -1,1 +1,1 @@
-Convolutional Neural Network that classifies images of traffic signs.
+This project focuses on developing a computer vision model that leverages a convolutional neural network algorithm (CNN) to accurately classify traffic signs into 1 of 29 distinct classes. The dataset used includes about 10,000 images with variations in lighting, weather, angles, and resolutions to ensure a comprehensive training of our model and success in different environmental conditions.
